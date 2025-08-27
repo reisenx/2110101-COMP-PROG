@@ -1,30 +1,47 @@
-# Input number of person
-n = int(input())
+# --------------------------------------------------
+# File Name : 10_TSD_JTP.py
+# Problem   : Sports
+# Author    : Worralop Srichainont
+# Date      : 2025-08-15
+# --------------------------------------------------
 
-# Input each person sport details which contains
-# [Name] [Sport1],[Sport2],[Sport3]
-# Example: Shane Swimming,Soccer,Golf,Badminton
-# Put a data in 'sports' dictionary in the format
-# {Name:{Set of sport}}
-# Example: sports = {'Shane':{'Swimming','Soccer','Golf','Badminton'}} 
-sports = {}
-for i in range(n):
-    name,sport = input().strip().split()
-    sport = set(sport.split(','))
-    sports[name] = sport
+# Initialize dictionary to store favorite sports of each person
+favorite_sports = {}
 
-# Input 2 name and find what sport they both play
-while(True):
-    data = input().strip()
-    # Input until 'q'
-    if(data == 'q'):
-        break
-    else:
-        # Get 2 names
-        name01, name02 = data.split()
-        # Find intersection of set of sport of both
-        match_sport = sports[name01] & sports[name02]
-        # Convert to a list, then sort them in alphabetical order
-        match_sport = sorted(match_sport)
-        # Output
-        print(match_sport)
+
+# Input favorite sports data
+def input_favorite_sports_data(n):
+    for _ in range(n):
+        # Extract name and sports from input
+        name, raw_sports = input().strip().split()
+        sports = set(raw_sports.split(","))
+
+        # Store the favorite sports of the current person in the dictionary
+        favorite_sports[name] = sports
+
+
+# Get common favorite sports between two people
+def get_common_favorite_sports(name1, name2):
+    sports1 = favorite_sports[name1]
+    sports2 = favorite_sports[name2]
+    return sorted(sports1 & sports2)
+
+
+# Main function
+def main():
+    # Input favorite sports data
+    n = int(input())
+    input_favorite_sports_data(n)
+
+    # Query for common favorite sports and display results
+    while True:
+        # Input until "q" is received
+        raw_data = input().strip()
+        if raw_data == "q":
+            break
+
+        # Extract names from input
+        name1, name2 = raw_data.split()
+
+        # Get and print common favorite sports
+        print(get_common_favorite_sports(name1, name2))
