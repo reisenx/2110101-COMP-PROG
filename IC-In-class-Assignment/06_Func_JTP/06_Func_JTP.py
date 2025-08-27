@@ -1,42 +1,41 @@
-# Chulalongkorn Univerity student ID
-# 1.) The ID has 10 digits
-# 2.) Consider 3rd digit of the student ID
-# 2.1.) 0,3 or 4 is undergraduate student
-# 2.2.) 1,7 or 8 is graduate student
-# 3.) Consider the 9th and 10th digits
-# 3.1.) 21 is Engineering student (ENG)
-# 3.2.) 22 is Arts student (ART)
-# 3.3.) 23 is Science student (SCI)
+# --------------------------------------------------
+# File Name : 06_Func_JTP.py
+# Problem   : Status and Faculty
+# Author    : Worralop Srichainont
+# Date      : 2025-08-14
+# --------------------------------------------------
 
-# This function can check if the student ID is undergraduate or not
-def is_undergrad(sid):
-    sid = str(sid)
-    if(sid[2] in "034"):
-        return True
+# Initialize constants
+UNDERGRAD_DIGITS = ["0", "3", "4"]
+FACULTY_CODES = [["21", "ENG"], ["22", "ART"], ["23", "SCI"]]
+
+
+# Check if the student is undergraduate student
+def is_undergrad(student_id):
+    return student_id[2] in UNDERGRAD_DIGITS
+
+
+# Get faculty of the student
+def get_faculty(student_id):
+    for code, faculty in FACULTY_CODES:
+        if student_id[-2] == code:
+            return faculty
+    return "OTHER"
+
+
+# Get type and faculty of the student
+def get_status(student_id):
+    # Initialize result list
+    result = []
+
+    # Check if the student is undergraduate or graduate
+    if is_undergrad(student_id):
+        result.append("U")
     else:
-        return False
+        result.append("G")
 
-# This function can check the faculty by student ID
-# Assume that the input student ID always exists
-def get_faculty(sid):
-    sid = str(sid)
-    if(sid[8:10] == '21'):
-        return "ENG"
-    elif(sid[8:10] == '22'):
-        return "ART"
-    elif(sid[8:10] == '23'):
-        return "SCI"
-    else:
-        return "OTHER"
+    # Append faculty of the student
+    result.append(get_faculty(student_id))
 
-# This function can check if the student is undergraduate (U) or graduate (G) and their faculty
-# Assume that the input student ID always exists
-def get_status(sid):
-    sid = str(sid)
-    if(is_undergrad(sid)):
-        return ['U', get_faculty(sid)]
-    else:
-        return ['G', get_faculty(sid)]
-
-# Execute an input string
-exec(input().strip())
+    # Return the result
+    return result
