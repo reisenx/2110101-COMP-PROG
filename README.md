@@ -29,7 +29,7 @@ class ThisRepo:
 
 ![01-study-guide.png](/Z99-OTHERS/00-main/01-study-guide.png)
 
-[![01a-grf.png](/Z99-OTHERS/00-main/01a-grf.png)](https://drive.google.com/file/d/1MobiIMdO5ejGxo801d9RZENZJnBddpBg/view?usp=drive_link)
+[![01a-grf.png](/Z99-OTHERS/00-main/01a-grf.png)](https://drive.google.com/file/d/1HcrlGCWUDQjBKjGbQ5w9Nkv4HLSb-6HH/view?usp=drive_link)
 
 ---
 

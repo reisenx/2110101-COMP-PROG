@@ -414,4 +414,4 @@ x.append(2)
 
 สำหรับรายละเอียดเกี่ยวกับรายวิชาเพิ่มเติม เทคนิคการเรียน สามารถอ่านได้ที่นี่ครับ
 
-[![01a-grf.png](/Z99-OTHERS/00-main/01a-grf.png)](https://drive.google.com/file/d/1MobiIMdO5ejGxo801d9RZENZJnBddpBg/view?usp=drive_link)
+[![01a-grf.png](/Z99-OTHERS/00-main/01a-grf.png)](https://drive.google.com/file/d/1HcrlGCWUDQjBKjGbQ5w9Nkv4HLSb-6HH/view?usp=drive_link)
