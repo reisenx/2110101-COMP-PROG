@@ -1,16 +1,25 @@
-# Given A and B matrix have the same size
-# Given that convolute of matrix A and B is the sum of all A[i][j]*B[i][j]
-def convolute(A,B):
-    # Find a number of matrix row and column
-    nrows = len(A)
-    ncols = len(A[0])
-    # Calculate a convolute of matrix A and B
-    sum = 0
-    for i in range(nrows):
-        for j in range(ncols):
-            sum += A[i][j]*B[i][j]
-    # Return a value
-    return sum
+# --------------------------------------------------
+# File Name : 09_Nested_JTP.py
+# Problem   : Convolution
+# Author    : Worralop Srichainont
+# Date      : 2025-08-15
+# --------------------------------------------------
 
-# Execute an input string
+
+def convolute(a, b):
+    # Find a number of matrix row and column
+    rows = len(a)
+    cols = len(a[0])
+
+    # Calculate a convolute of matrix A and B
+    total = 0
+    for i in range(rows):
+        for j in range(cols):
+            total += a[i][j] * b[i][j]
+
+    # Return a value
+    return total
+
+
+# Execute an input string as code
 exec(input().strip())

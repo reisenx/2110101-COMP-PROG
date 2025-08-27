@@ -1,20 +1,25 @@
-# Input a grade
-# "A B C B" --> ["A", "B", "C", "B"]
-grade_list = input().split()
+# --------------------------------------------------
+# File Name : 04_Loop_JTP.py
+# Problem   : Average Grade
+# Author    : Worralop Srichainont
+# Date      : 2025-08-14
+# --------------------------------------------------
 
-# Convert grade to a number then find a sum of them
-# A = 4; B = 3; C = 2; D = 1; F = 0
-grade_sum = 0
-for i in range(0,len(grade_list)):
-    if(grade_list[i] == 'A'):
-        grade_sum = grade_sum + 4
-    elif(grade_list[i] == 'B'):
-        grade_sum = grade_sum + 3
-    elif(grade_list[i] == 'C'):
-        grade_sum = grade_sum + 2
-    elif(grade_list[i] == 'D'):
-        grade_sum = grade_sum + 1
+# Initialize the grade letters and its value
+GRADE_LETTER = ["A", "B", "C", "D", "F"]
+GRADE_VALUE = [4.0, 3.0, 2.0, 1.0, 0.0]
 
-# Calculate and output the GPA
+# Initialize total grade value
+total_value = 0.0
 
-print(round(grade_sum/len(grade_list),2))
+# Input grade and calculate total value
+grades = input().strip().split()
+for grade in grades:
+    idx = GRADE_LETTER.index(grade)
+    total_value += GRADE_VALUE[idx]
+
+# Calculate average grade
+average_grade = total_value / len(grades)
+
+# Output average grade
+print(round(average_grade, 2))
