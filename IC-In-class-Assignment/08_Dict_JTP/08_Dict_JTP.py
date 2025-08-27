@@ -1,32 +1,44 @@
-# Create a dictionary of the pizza and its calories per 1 slice
-calories = {'PZ871':265.25, 'PZ953':246.50, 'Z1983':256.50, 'Z2853':272.50, 'LC673':309.25}
-customer = {}
+# --------------------------------------------------
+# File Name : 08_Dict_JTP.py
+# Problem   : Pizza Calories
+# Author    : Worralop Srichainont
+# Date      : 2025-08-14
+# --------------------------------------------------
 
-# Input how many orders
+# Initialize calories for each pizza
+PIZZA_CALORIES = {
+    "PZ871": 265.25,
+    "PZ953": 246.50,
+    "Z1983": 256.50,
+    "Z2853": 272.50,
+    "LC673": 309.25,
+}
+
+# Initialize dictionary to store total calories of each customer
+customer_calories = {}
+
+# Input
 n = int(input())
+for _ in range(n):
+    # Input customer order
+    raw_data = input().strip().split(",")
 
-# Input order details
-# Order details will be in the format --> "[ID],[Pizza1],[Silces1],[Pizza2],[Slice2],..."
-# ID = order[0]
-# pizza = order[1], order[3], order[5], ...
-# slice = order[2], order[4], order[6], ... 
-# Pizza details may be lowercase (Example: 'pZ871')
-for i in range(n):
-    order = input().strip().split(',')
-    ID = order[0]
-    pizza_amount = (len(order)-1)//2
-    for j in range(1, pizza_amount+1):
-        if(ID not in customer):
-            customer[ID] = calories[order[2*j - 1].upper()] * int(order[2*j])
-        else:
-            customer[ID] += calories[order[2*j - 1].upper()] * int(order[2*j])
+    # Extract customer ID from the input
+    customer_id = raw_data[0].strip()
 
-# Output by customer ID (Ascending order)
-ID_list = []
-for ID in customer:
-    ID_list.append(ID)
-# Sort ID list in ascending order
-ID_list.sort()
-# Output
-for ID in ID_list:
-    print(ID, "-->", round(customer[ID],2))
+    # Initialize customer's total calories if not already done
+    if customer_id not in customer_calories:
+        customer_calories[customer_id] = 0.0
+
+    # Calculate total calories for the current order
+    for i in range(1, len(raw_data), 2):
+        # Extract pizza ID and amount from the input
+        pizza_id = raw_data[i].strip()
+        amount = int(raw_data[i + 1].strip())
+
+        # Update customer's total calories
+        customer_calories[customer_id] += PIZZA_CALORIES[pizza_id] * amount
+
+# Output each customer's total calories sorted by customer ID
+for customer_id, calories in sorted(customer_calories.items()):
+    print(f"{customer_id} -> {round(calories, 2)}")
