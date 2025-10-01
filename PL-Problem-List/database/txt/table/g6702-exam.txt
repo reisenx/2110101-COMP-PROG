@@ -1,0 +1,17 @@
+| No. | Problem Code | Name | Difficulty | Solution |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | [`2567_2_Q1_A1`](https://drive.google.com/file/d/1f3hgd5TDKZhNo-mKpnOi-fUeMvVRQkOZ/view?usp=sharing) | **Flowchart** | ★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q1_A1/README.md) |
+| 2 | [`2567_2_Q1_A2`](https://drive.google.com/file/d/1j7D-tr5qBp5H0i1LItXGmxd--MQF71QW/view?usp=sharing) | **Temperature Change** | ★★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q1_A2/README.md) |
+| 3 | [`2567_2_Q1_A3`](https://drive.google.com/file/d/1v0FWx0yP8K58KgW9GwB-JNcxdg_KzSO7/view?usp=sharing) | **Snake and Ladders** | ★★☆ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q1_A3/README.md) |
+| 4 | [`2567_2_Q2_A1`](https://drive.google.com/file/d/1j65S2cZJpf_FsUE9_QZKgJipcFh5R8Xw/view?usp=sharing) | **Flowchart** | ★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q2_A1/README.md) |
+| 5 | [`2567_2_Q2_A2`](https://drive.google.com/file/d/1GhTOX-xn20MxpVoo8Q9_AnJzXfbU0CWA/view?usp=sharing) | **Lyla** | ★★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q2_A2/README.md) |
+| 6 | [`2567_2_Q2_A3`](https://drive.google.com/file/d/1HxprZGmq1r8nJj6YRfVJyiFnFduKlb-T/view?usp=sharing) | **Snake and Ladders 2** | ★★☆ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q2_A3/README.md) |
+| 7 | [`2567_2_Q2_B1`](https://drive.google.com/file/d/1g1L5WnvX83lrKPCAEQFQQbIM8RMDpLfe/view?usp=sharing) | **List Rearragement 2** | ★★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q2_B1/README.md) |
+| 8 | [`2567_2_Q2_B2`](https://drive.google.com/file/d/1JdGhOynEXVT9aRMdgd9qPwb9SeFidzX5/view?usp=sharing) | **Text Replace in File** | ★★☆ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q2_B2/README.md) |
+| 9 | [`2567_2_Q3_A1`](https://drive.google.com/file/d/1jhv8c59i_6af0xRp1c9lsiRnN2mYy4hB/view?usp=sharing) | **Flowchart** | ★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_A1/README.md) |
+| 10 | [`2567_2_Q3_A2`](https://drive.google.com/file/d/13OMN41ZzzXgnYZwzrfwgXP-PRR_fNqel/view?usp=sharing) | **Earthquake** | ★★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_A2/README.md) |
+| 11 | [`2567_2_Q3_A3`](https://drive.google.com/file/d/1xhNd3hF-0datqyz816erb_OIuLOHxJ79/view?usp=sharing) | **Red ball** | ★☆ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_A3/README.md) |
+| 12 | [`2567_2_Q3_B1`](https://drive.google.com/file/d/1KceParo05PeXgSq9s0pC8BPWIEBHC6El/view?usp=sharing) | **Graduation Ceremony** | ★★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_B1/README.md) |
+| 13 | [`2567_2_Q3_B2`](https://drive.google.com/file/d/1JQPTF4RkH_XMh0RffyJAe--oFt2vvAsJ/view?usp=sharing) | **Plate Extractor** | ★★ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_B2/README.md) |
+| 14 | [`2567_2_Q3_C1`](https://drive.google.com/file/d/1VZzXLBxJCZVnwWJkAfcxgIwhTQsdcmev/view?usp=sharing) | **Connect Four** | ★★★☆ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_C1/README.md) |
+| 15 | [`2567_2_Q3_C2`](https://drive.google.com/file/d/1DckIjdZe0aP7xbSN2p3_BLqjfuZG5_QB/view?usp=sharing) | **Gradsons** | ★★☆ | [`Solution`](/GE-Grader-Examination/G6702-Exam-2567-S22567_2_Q3_C2/README.md) |
