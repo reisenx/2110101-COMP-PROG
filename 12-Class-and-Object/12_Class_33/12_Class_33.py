@@ -55,6 +55,7 @@ class PiggyBank:
             result.append(f"{coin_type}:{coin_count}")
         return "{" + ", ".join(result) + "}"
 
+
 # Output
 cmd1 = input().split(";")
 cmd2 = input().split(";")
