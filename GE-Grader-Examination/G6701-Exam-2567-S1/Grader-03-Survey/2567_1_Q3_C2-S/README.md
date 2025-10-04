@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q3_C2-S.py
-# Problem   : Students in Subjects
+# Problem   : Students in Course
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

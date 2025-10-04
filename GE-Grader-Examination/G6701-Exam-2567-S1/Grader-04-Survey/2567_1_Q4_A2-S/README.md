@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q4_A2-S.py
-# Problem   : Benefit from Sales
+# Problem   : Sales Revenue
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

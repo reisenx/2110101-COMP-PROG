@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_1_Q3_C1-S.py
-# Problem   : Money Change
+# Problem   : Coin Change
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

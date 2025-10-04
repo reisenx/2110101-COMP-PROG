@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q4_A3-S.py
-# Problem   : MCQ Checker
+# Problem   : MCQ
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

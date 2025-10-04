@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q2_B2-S.py
-# Problem   : Offensive Words
+# Problem   : Bad Words
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

@@ -32,7 +32,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q3_B2-S-sol1.py
-# Problem   : Card Sorting
+# Problem   : Card Order
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------
@@ -79,7 +79,7 @@ print(output)
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q3_B2-S-sol2.py
-# Problem   : Card Sorting
+# Problem   : Card Order
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

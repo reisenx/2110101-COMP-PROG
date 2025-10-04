@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_1_Q1_A2-W.py
-# Problem   : Flowchart
+# Problem   : Cosine Taylor Series
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

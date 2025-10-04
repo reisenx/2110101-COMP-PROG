@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q2_A3.py
-# Problem   : Horizontal & Vertical Flip
+# Problem   : Image Flip
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

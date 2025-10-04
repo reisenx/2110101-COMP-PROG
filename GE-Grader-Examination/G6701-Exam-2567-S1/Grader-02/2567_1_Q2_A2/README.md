@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q2_A2.py
-# Problem   : Positive Real Number to Continued Fraction
+# Problem   : Continued Fraction
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

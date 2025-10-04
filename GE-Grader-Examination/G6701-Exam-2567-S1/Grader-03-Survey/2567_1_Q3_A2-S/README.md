@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q3_A2-S.py
-# Problem   : Interest Rate
+# Problem   : Compound Interest
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

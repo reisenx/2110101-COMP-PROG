@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_1_Q2_A2-S.py
-# Problem   : Loan Debt
+# Problem   : Loan Interest
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_1_Q3_A3-S.py
-# Problem   : Total Card Score
+# Problem   : Card Score
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------
