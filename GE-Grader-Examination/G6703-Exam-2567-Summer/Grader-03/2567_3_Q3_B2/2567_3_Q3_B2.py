@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_3_Q3_B2.py
-# Problem   : Survival game
+# Problem   : Line Arrangement
 # Author    : Worralop Srichainont
 # Date      : 2025-07-31
 # --------------------------------------------------
