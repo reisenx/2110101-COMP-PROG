@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2566_1_Q2_02.py
-# Problem   : Registration
+# Problem   : Registration Data
 # Author    : Worralop Srichainont
 # Date      : 2025-07-12
 # --------------------------------------------------
