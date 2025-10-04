@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2565_2_Q1_03.py
-# Problem   : Flowchart 0100
+# Problem   : Flowchart
 # Author    : Worralop Srichainont
 # Date      : 2025-07-11
 # --------------------------------------------------

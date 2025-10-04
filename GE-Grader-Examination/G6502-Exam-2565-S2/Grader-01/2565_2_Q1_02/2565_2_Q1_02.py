@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2565_2_Q1_02.py
-# Problem   : Air Quality Index (AQI)
+# Problem   : AQI
 # Author    : Worralop Srichainont
 # Date      : 2025-07-11
 # --------------------------------------------------

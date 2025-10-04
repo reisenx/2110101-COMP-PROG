@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2565_2_Q3_03.py
-# Problem   : CUEng Sport 2023
+# Problem   : CUENG Sport 2023
 # Author    : Worralop Srichainont
 # Date      : 2025-07-12
 # --------------------------------------------------
