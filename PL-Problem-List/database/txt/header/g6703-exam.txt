@@ -1,9 +1,7 @@
 <div align="center">
   <h1>
     Get Min-Max Out of 6 ★ (
-      <a href="nan">
         <code>2567_3_Q1_A0</code>
-      </a>
     )
   </h1>
 </div>
@@ -31,9 +29,7 @@
 <div align="center">
   <h1>
     Interest Rate ★ (
-      <a href="nan">
         <code>2567_3_Q2_A0</code>
-      </a>
     )
   </h1>
 </div>
@@ -61,9 +57,7 @@
 <div align="center">
   <h1>
     Total Card Value ★ (
-      <a href="nan">
         <code>2567_3_Q3_A0</code>
-      </a>
     )
   </h1>
 </div>
@@ -111,9 +105,7 @@
 <div align="center">
   <h1>
     Average Grade ★ (
-      <a href="nan">
         <code>2567_3_Q4_A0</code>
-      </a>
     )
   </h1>
 </div>
@@ -161,9 +153,7 @@
 <div align="center">
   <h1>
     Move String Right Hand ★ (
-      <a href="nan">
         <code>2567_3_Q5_A0</code>
-      </a>
     )
   </h1>
 </div>
