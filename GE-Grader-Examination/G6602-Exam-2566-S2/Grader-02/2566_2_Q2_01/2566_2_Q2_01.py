@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2566_2_Q2_01.py
-# Problem   : Offensive Words
+# Problem   : Bad Words
 # Author    : Worralop Srichainont
 # Date      : 2025-07-13
 # --------------------------------------------------

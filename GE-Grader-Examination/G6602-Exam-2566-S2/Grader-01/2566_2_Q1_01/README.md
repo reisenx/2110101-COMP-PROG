@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2566_2_Q1_01.py
-# Problem   : Poker Hands Straight Flush
+# Problem   : Poker Hands
 # Author    : Worralop Srichainont
 # Date      : 2025-07-13
 # --------------------------------------------------

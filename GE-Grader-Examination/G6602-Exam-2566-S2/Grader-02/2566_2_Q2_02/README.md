@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2566_2_Q2_02.py
-# Problem   : Credit Card Coupon
+# Problem   : Credit Points
 # Author    : Worralop Srichainont
 # Date      : 2025-07-13
 # --------------------------------------------------

@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2566_2_Q3_03.py
-# Problem   : Video Recommendation from Hashtag
+# Problem   : Hashtag Recommendation
 # Author    : Worralop Srichainont
 # Date      : 2025-07-15
 # --------------------------------------------------
