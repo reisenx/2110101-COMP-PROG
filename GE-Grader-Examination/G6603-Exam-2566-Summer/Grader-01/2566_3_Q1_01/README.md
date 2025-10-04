@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2566_3_Q1_01.py
-# Problem   : Longest Repeated Characters
+# Problem   : Longest Repeating Characters
 # Author    : Worralop Srichainont
 # Date      : 2025-07-15
 # --------------------------------------------------
