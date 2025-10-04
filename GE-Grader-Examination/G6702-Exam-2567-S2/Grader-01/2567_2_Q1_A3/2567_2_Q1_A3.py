@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_2_Q1_A3.py
-# Problem   : Snakes and Ladder
+# Problem   : Snakes and Ladders
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2565_1_Q2_03.py
-# Problem   : Colors
+# Problem   : Color Splash
 # Author    : Worralop Srichainont
 # Date      : 2025-07-11
 # --------------------------------------------------

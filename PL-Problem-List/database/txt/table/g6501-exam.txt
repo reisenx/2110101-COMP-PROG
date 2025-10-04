@@ -1,0 +1,11 @@
+| No. | Problem Code | Name | Difficulty | Solution |G6501-Exam-2565-S1
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | [`2565_1_Q1_01`](https://drive.google.com/file/d/1FXMD_zb9kZY0yza5yGkKEjzhIsln3957/view?usp=sharing) | **Flowchart** | ★ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 2 | [`2565_1_Q1_02`](https://drive.google.com/file/d/1NuVGKMXHgLQnZ5uYt9max7ulUrsu_2iP/view?usp=sharing) | **Multiplexer** | ★☆ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 3 | [`2565_1_Q1_03`](https://drive.google.com/file/d/1lVVt7vIHTU--47wxWlmma9nAeVPlxhKd/view?usp=sharing) | **Simple Expression Calculator** | ★★ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 4 | [`2565_1_Q2_01`](https://drive.google.com/file/d/1X6OZDtOLyN39IAgno2ZU1lD7gL25xOpo/view?usp=sharing) | **Scrabble** | ★★ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 5 | [`2565_1_Q2_02`](https://drive.google.com/file/d/14nVgkqWfDCmAo63yftuhC75UoOSFs9Xi/view?usp=sharing) | **Match** | ★★☆ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 6 | [`2565_1_Q2_03`](https://drive.google.com/file/d/1Y3ZGwib7W2vyC9boj5bUja5Bn7x4YKRV/view?usp=sharing) | **Color Splash** | ★★☆ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 7 | [`2565_1_Q3_01`](https://drive.google.com/file/d/1F26AfX7ZdT7tbOQrNPDPe9K53HqM6b1w/view?usp=sharing) | **Group Stage** | ★★ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 8 | [`2565_1_Q3_02`](https://drive.google.com/file/d/1WBB8TOkW_fw3vlitH2TXXcxpklcce0la/view?usp=sharing) | **Graduation Ceremony** | ★★★ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |
+| 9 | [`2565_1_Q3_03`](https://drive.google.com/file/d/1SPMt7LOB8ThKCUKVqYJX3_a5lpx71_bv/view?usp=sharing) | **APEC Headache** | ★★★★ | [`Solution`](/GE-Grader-Examination/G6501-Exam-2565-S1) |

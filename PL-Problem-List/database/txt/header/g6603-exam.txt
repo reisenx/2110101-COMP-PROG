@@ -1,0 +1,49 @@
+<div align="center">
+  <h1>
+    Longest Repeating Characters ★☆ (
+      <a href="https://drive.google.com/file/d/1EzqYAfhvcaWUq-5EzXJwyZBHy3k4C9CK/view?usp=sharing">
+        <code>2566_3_Q1_01</code>
+      </a>
+    )
+  </h1>
+</div>
+
+<div align="center">
+  <h1>
+    Euro 2024 ★★ (
+      <a href="https://drive.google.com/file/d/1cBzc4kXgbFXzY45q16TeEZBRyL9_7gH3/view?usp=sharing">
+        <code>2566_3_Q2_01</code>
+      </a>
+    )
+  </h1>
+</div>
+
+<div align="center">
+  <h1>
+    Euro 2024 Sub-routing ★★☆ (
+      <a href="https://drive.google.com/file/d/1bA-H_dW0TDJnl-Opur5J89TMTQz0h42Z/view?usp=sharing">
+        <code>2566_3_Q2_02</code>
+      </a>
+    )
+  </h1>
+</div>
+
+<div align="center">
+  <h1>
+    Customized Grading ★★ (
+      <a href="https://drive.google.com/file/d/19hJN0aOKbgJV4HOnwSkB2eyQrlpN-r_q/view?usp=sharing">
+        <code>2566_3_Q3_01</code>
+      </a>
+    )
+  </h1>
+</div>
+
+<div align="center">
+  <h1>
+    RSP Team ★★☆ (
+      <a href="https://drive.google.com/file/d/1e3KDAFFtn3tNY_MHorr3GtRUzFQd2ddP/view?usp=sharing">
+        <code>2566_3_Q3_02</code>
+      </a>
+    )
+  </h1>
+</div>

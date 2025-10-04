@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_3_Q1_A2.py
-# Problem   : Boy Scouts
+# Problem   : Scout
 # Author    : Worralop Srichainont
 # Date      : 2025-07-31
 # --------------------------------------------------

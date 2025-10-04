@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_1_Q1_A2.py
-# Problem   : Interest Rate
+# Problem   : Compound Interest
 # Author    : Worralop Srichainont
 # Date      : 2025-07-28
 # --------------------------------------------------

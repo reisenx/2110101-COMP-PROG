@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_1_Q4_B1-S.py
-# Problem   : T-Scores
+# Problem   : T-Score
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

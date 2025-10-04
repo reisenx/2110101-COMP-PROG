@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_2_Q3_B2.py
-# Problem   : License Plate Extractor
+# Problem   : Plate Extractor
 # Author    : Worralop Srichainont
 # Date      : 2025-07-30
 # --------------------------------------------------

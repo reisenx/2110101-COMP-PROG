@@ -11,7 +11,7 @@ NUMBER_TO_ROMAN = {
     100: ("", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"),
     10: ("", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"),
     1: ("", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"),
-    }
+}
 
 ROMAN_TO_NUMBER = {
     "I": (("III", 3), ("IX", 9), ("IV", 4), ("II", 2), ("I", 1)),
