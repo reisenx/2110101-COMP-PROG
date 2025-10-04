@@ -1,8 +1,10 @@
 # 2110101 COMPUTER PROGRAMMING
 
-![00-com-prog.png](/Z99-OTHERS/00-main/00-com-prog.png)
+![00-comp-prog.png](/Z99-OTHERS/00-main/00-comp-prog.png)
 
 [![00a-get-started](/Z99-OTHERS/00-main/00a-get-started.png)](/PL-Problem-List/README.md)
+
+[![grader-banner](/Z99-OTHERS/grader/main/grader-banner.png)](/GE-Grader-Examination/README.md)
 
 # About this Repository
 
@@ -19,8 +21,8 @@
 ```python
 class ThisRepo:
     def __init__(self):
-        self.version = '2.0.0'
-        self.last_updated = '05 June 2025'
+        self.version = '2.1.0'
+        self.last_updated = '04 October 2025'
 ```
 
 ---
@@ -60,7 +62,7 @@ class ThisRepo:
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 95%;">
   <tr style="display: flex; justify-content: center; align-items: center;">
     <td align="center" style="padding-right: 2.5%;">
-      <a href="/SM-Study-Materials/02-COM-PROG-Slides/00-COM-PROG-All-Slides.pdf">
+      <a href="https://drive.google.com/file/d/1r5kZH22UTdcBsUzTk0SZURoGEUIicSid/view?usp=sharing">
         <img src="Z99-OTHERS/00-main/02d-slides.png" width="100%">
       </a>
     </td>
