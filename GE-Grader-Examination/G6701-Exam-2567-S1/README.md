@@ -4,7 +4,9 @@
   </a>
 </p>
 
-[banner]()
+![g6701-large.png](/Z99-OTHERS/grader/g6701/g6701-large.png)
+
+---
 
 # ข้อสอบเก่า Grader 01 (ปี 2567 เทอม 1)
 
