@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_3_Q5_B1.py
-# Problem   : Least Common Animal
+# Problem   : Least Common Animals
 # Author    : Worralop Srichainont
 # Date      : 2025-08-01
 # --------------------------------------------------

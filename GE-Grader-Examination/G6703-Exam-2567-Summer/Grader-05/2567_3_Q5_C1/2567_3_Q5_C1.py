@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_3_Q5_C1.py
-# Problem   : Student Registration
+# Problem   : Student Grouping
 # Author    : Worralop Srichainont
 # Date      : 2025-08-01
 # --------------------------------------------------

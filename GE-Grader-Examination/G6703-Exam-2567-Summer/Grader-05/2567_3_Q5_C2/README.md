@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_3_Q5_C2.py
-# Problem   : Top Sales Hour
+# Problem   : Maximum Sales
 # Author    : Worralop Srichainont
 # Date      : 2025-08-01
 # --------------------------------------------------

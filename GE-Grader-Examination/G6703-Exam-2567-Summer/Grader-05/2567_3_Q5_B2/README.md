@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_3_Q5_B2.py
-# Problem   : Countries Weather
+# Problem   : Weather Perception
 # Author    : Worralop Srichainont
 # Date      : 2025-08-01
 # --------------------------------------------------
