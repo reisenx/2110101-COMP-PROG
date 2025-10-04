@@ -1,6 +1,6 @@
 # --------------------------------------------------
 # File Name : 2567_2_Q3_C2-sol1.py
-# Problem   : Grandson
+# Problem   : Grandsons
 # Author    : Worralop Srichainont
 # Date      : 2025-07-30
 # --------------------------------------------------

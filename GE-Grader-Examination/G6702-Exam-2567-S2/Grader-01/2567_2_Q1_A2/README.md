@@ -31,7 +31,7 @@
 ```python
 # --------------------------------------------------
 # File Name : 2567_2_Q1_A2.py
-# Problem   : Newton's Law of Cooling
+# Problem   : Temperature Change
 # Author    : Worralop Srichainont
 # Date      : 2025-07-29
 # --------------------------------------------------

@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>
-    Red ball ★☆ (
+    Red Ball ★☆ (
       <a href="https://drive.google.com/file/d/1xhNd3hF-0datqyz816erb_OIuLOHxJ79/view?usp=sharing">
         <code>2567_2_Q3_A3</code>
       </a>
