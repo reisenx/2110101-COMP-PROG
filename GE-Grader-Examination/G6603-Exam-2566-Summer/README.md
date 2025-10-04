@@ -4,7 +4,9 @@
   </a>
 </p>
 
-[banner]()
+![g6603-large.png](/Z99-OTHERS/grader/g6603/g6603-large.png)
+
+---
 
 # ข้อสอบเก่า Grader 01 (ปี 2566 ภาคฤดูร้อน)
 
